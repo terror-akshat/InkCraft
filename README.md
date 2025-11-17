@@ -159,3 +159,7 @@ flutter run
 
 ```
 ---
+
+❤️ Made with Flutter
+
+Crafted with passion using the Flutter framework.
