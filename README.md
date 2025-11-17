@@ -1,18 +1,18 @@
 # InkCraft A Modern Flutter Notes App
 
-> ** A powerful and beautifully designed notes application built with Flutter, offering rich text editing, vibrant color formatting, and multi-format exporting including fully styled PDF generation.
+> \*\* A powerful and beautifully designed notes application built with Flutter, offering rich text editing, vibrant color formatting, and multi-format exporting including fully styled PDF generation.
 
 ---
 
-
 # ScreenShot
 
+<p align="center">
 <img src="WhatsApp Image 2025-11-17 at 21.53.42_2375325a.jpg" width="330" />
 
 <img src="WhatsApp Image 2025-11-17 at 21.54.40_1b9ddada.jpg" width="330" />
 
 <img src="WhatsApp Image 2025-11-17 at 21.55.58_e3592fda.jpg" width="330" />
-
+</p>
 
 # 🚀 Feature Highlights
 
@@ -49,13 +49,14 @@
 
 # 🛠️ Getting Started
 
-> **This project requires:
+> \*\*This project requires:
 
 ```
 Flutter SDK 3.0+
 Dart 3.0+
 VS Code (recommended)
 ```
+
 ---
 
 ## 💻 Flutter Setup (VS Code)
@@ -67,7 +68,7 @@ Download Flutter from the official site:
 https://docs.flutter.dev/get-started/install
 ```
 
-> **Extract it, then add Flutter to your PATH:
+> \*\*Extract it, then add Flutter to your PATH:
 
 ```
 export PATH="$PATH:/path-to-flutter/bin"
@@ -75,7 +76,7 @@ export PATH="$PATH:/path-to-flutter/bin"
 
 ---
 
-> **Check installation:
+> \*\*Check installation:
 
 ```
 flutter doctor
@@ -85,7 +86,7 @@ flutter doctor
 
 ### ✔️ Step 2: Install VS Code Extensions
 
-> **In VS Code, install:
+> \*\*In VS Code, install:
 
 - Flutter
 - Dart
@@ -96,20 +97,20 @@ flutter doctor
 
 ### ✔️ Step 2: Project Setup
 
-> **Clone the repository:
+> \*\*Clone the repository:
 
 ```
 git clone <your-repository-url>
 cd InkCraft
 ```
 
-> **Install dependencies:
+> \*\*Install dependencies:
 
 ```
 flutter pub get
 ```
 
-> **Run the project:
+> \*\*Run the project:
 
 ```
 flutter run
@@ -118,7 +119,6 @@ flutter run
 ---
 
 # 📚 Project Structure
-
 
 ```
 
@@ -156,6 +156,7 @@ flutter run
 └── windows/
 
 ```
+
 ---
 
 ❤️ Made with Flutter
