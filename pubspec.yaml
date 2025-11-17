@@ -1,0 +1,42 @@
+name: flutter_notes_app
+description: A complete, production-ready Flutter Notes app with local storage and no external dependencies.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Storage and file handling
+  path_provider: ^2.1.1
+  
+  # User preferences
+  shared_preferences: ^2.2.2
+  
+  # Date formatting
+  intl: ^0.18.1
+  
+  # PDF generation and printing
+  pdf: ^3.10.7
+  printing: ^5.12.0
+  
+  # Sharing functionality
+  share_plus: ^7.2.1
+  
+  # Color picker
+  flex_color_picker: ^3.4.1
+  
+  # Permissions
+  permission_handler: ^11.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
