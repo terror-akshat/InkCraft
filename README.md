@@ -7,13 +7,11 @@
 
 # ScreenShot
 
-![alt text](<WhatsApp Image 2025-11-17 at 21.53.42_2375325a.jpg>)
+<img src="WhatsApp Image 2025-11-17 at 21.53.42_2375325a.jpg" width="330" />
 
-![alt text](<WhatsApp Image 2025-11-17 at 21.54.40_1b9ddada.jpg>)
+<img src="WhatsApp Image 2025-11-17 at 21.54.40_1b9ddada.jpg" width="330" />
 
-![alt text](<WhatsApp Image 2025-11-17 at 21.55.58_e3592fda.jpg>)
-
-
+<img src="WhatsApp Image 2025-11-17 at 21.55.58_e3592fda.jpg" width="330" />
 
 
 # 🚀 Feature Highlights
